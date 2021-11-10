@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CheckMateFlask'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F84AB4F97D9445B9BC889CB1D4A60537 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDB145457C0A426F9E4788400180ED4D }}
